@@ -1,4 +1,4 @@
-# SAP Cloud Application Programming Model Consuming Remote Services
+# SAP Cloud Application Programming Model Consuming Remote Services .....
 
 Often in SAP Cloud Application Programming Model samples and other content, we focus on the ability to model and create OData services. However CAP also has some amazing functionality to help with the consumption of services from other systems. Or to create a mashup of local data and remote data fetched via a service call. This demo portion of the SAP TechEd 2021 Developer Keynote will focus on exactly those aspects of the SAP Cloud Application Programming Model.
 
